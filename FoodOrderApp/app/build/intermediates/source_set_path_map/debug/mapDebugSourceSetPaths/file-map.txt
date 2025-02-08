@@ -1,0 +1,53 @@
+com.example.foodorderapp-lifecycle-runtime-2.6.2-0 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\0fe97729bf767bc02054452ec345349c\transformed\lifecycle-runtime-2.6.2\res
+com.example.foodorderapp-material-1.12.0-1 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\1c63e0eb85685ef2a28df363c62b7626\transformed\material-1.12.0\res
+com.example.foodorderapp-tracing-1.1.0-2 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\2cc09aea16166f52fb7f41f2330763b4\transformed\tracing-1.1.0\res
+com.example.foodorderapp-lifecycle-livedata-2.6.2-3 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\2d32a8d8a43a6fd0ef2be6a3a2016e29\transformed\lifecycle-livedata-2.6.2\res
+com.example.foodorderapp-play-services-measurement-api-22.1.2-4 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\2f2a28916aab4ee885132d3291bbfb45\transformed\play-services-measurement-api-22.1.2\res
+com.example.foodorderapp-core-runtime-2.2.0-5 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\361666d87059c37c25b9d6dce83cfe61\transformed\core-runtime-2.2.0\res
+com.example.foodorderapp-emoji2-views-helper-1.3.0-6 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\3ab1e1a19924853995cec2bcfaee98aa\transformed\emoji2-views-helper-1.3.0\res
+com.example.foodorderapp-lifecycle-viewmodel-2.6.2-7 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\3ac106d7717074ddd7a5ffb82517c26e\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.foodorderapp-recyclerview-1.1.0-8 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\3bf30fcde8c0468657374b4fd2f33931\transformed\recyclerview-1.1.0\res
+com.example.foodorderapp-lifecycle-viewmodel-savedstate-2.6.2-9 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\4124fbfc190ff3263263aae2f739e177\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.foodorderapp-core-common-2.0.3-10 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\4385b400cc522e768dabf4cf9632557e\transformed\core-common-2.0.3\res
+com.example.foodorderapp-startup-runtime-1.1.1-11 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\44a488e854e5acf4ba91099c20f5f39a\transformed\startup-runtime-1.1.1\res
+com.example.foodorderapp-credentials-1.2.0-rc01-12 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\483ebe760ba4a5881cc03fe9617ccfa0\transformed\credentials-1.2.0-rc01\res
+com.example.foodorderapp-play-services-maps-17.0.0-13 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\4c1150e14ba31fd688f9877c4618b674\transformed\play-services-maps-17.0.0\res
+com.example.foodorderapp-annotation-experimental-1.4.0-14 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\4f9ff21fcd516bd0ed83b886278ab456\transformed\annotation-experimental-1.4.0\res
+com.example.foodorderapp-firebase-common-21.0.0-15 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\575d039b553e032e1dd9b874f38c0054\transformed\firebase-common-21.0.0\res
+com.example.foodorderapp-ads-adservices-1.0.0-beta05-16 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\6275ed73d0537f4d9a0ecd28d22737ce\transformed\ads-adservices-1.0.0-beta05\res
+com.example.foodorderapp-core-1.13.0-17 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\64df64fb4e58835b998a227139e96068\transformed\core-1.13.0\res
+com.example.foodorderapp-activity-1.9.2-18 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\667165d50f5a49a8cd81bd80b8b0f284\transformed\activity-1.9.2\res
+com.example.foodorderapp-lifecycle-process-2.6.2-19 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\692e3c74294492c3954f046ba271e3f9\transformed\lifecycle-process-2.6.2\res
+com.example.foodorderapp-credentials-play-services-auth-1.2.0-rc01-20 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\7881fcb72a3d0429acd25f4d86c47a00\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.foodorderapp-core-ktx-1.13.0-21 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\7f05287d4ded9c9fd6e9f5e66f209ff5\transformed\core-ktx-1.13.0\res
+com.example.foodorderapp-profileinstaller-1.4.0-22 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\7fb88eb52683bdb0f01af4ae9da2961a\transformed\profileinstaller-1.4.0\res
+com.example.foodorderapp-play-services-wallet-18.1.3-23 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\88d093546b3c881b0b5b923897a755f4\transformed\play-services-wallet-18.1.3\res
+com.example.foodorderapp-ads-adservices-java-1.0.0-beta05-24 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\95a506cbaefefaf1fc0f2d03aa15cd88\transformed\ads-adservices-java-1.0.0-beta05\res
+com.example.foodorderapp-lifecycle-livedata-core-2.6.2-25 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\a451b2988d69892ed217ce9be4960181\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.foodorderapp-appcompat-1.7.0-26 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\a78eaa7fb5355251e47695720b26f3c1\transformed\appcompat-1.7.0\res
+com.example.foodorderapp-checkout-1.6.19-27 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\b2fe507c9bc2fc0759d440546860a0f6\transformed\checkout-1.6.19\res
+com.example.foodorderapp-fragment-1.5.4-28 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\b4b509b979a931c3899a587a8bfcb684\transformed\fragment-1.5.4\res
+com.example.foodorderapp-play-services-auth-20.7.0-29 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\bcb0a1b58fcd6fc8ea6d82475995c8ea\transformed\play-services-auth-20.7.0\res
+com.example.foodorderapp-constraintlayout-2.2.0-30 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\c3525e3c5ded21d214462c8e9bb49984\transformed\constraintlayout-2.2.0\res
+com.example.foodorderapp-play-services-base-18.5.0-31 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\c5b039558ddbef85267aeec9308d85b8\transformed\play-services-base-18.5.0\res
+com.example.foodorderapp-emoji2-1.3.0-32 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\c76d69b1e92c04e06a2d1bc40055702c\transformed\emoji2-1.3.0\res
+com.example.foodorderapp-browser-1.4.0-33 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\cea240b3d0a51e94516dc93debc7a56c\transformed\browser-1.4.0\res
+com.example.foodorderapp-appcompat-resources-1.7.0-34 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\d37684e44592b583ee388a5abc31b775\transformed\appcompat-resources-1.7.0\res
+com.example.foodorderapp-drawerlayout-1.1.1-35 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\da2b71a2d8bab264ae640282cbff11e2\transformed\drawerlayout-1.1.1\res
+com.example.foodorderapp-viewpager2-1.0.0-36 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\dd4cf3f2ee837f72a16c5da3ac7e6128\transformed\viewpager2-1.0.0\res
+com.example.foodorderapp-glide-4.12.0-37 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\e1ffbc9a7476139af86dec373291223d\transformed\glide-4.12.0\res
+com.example.foodorderapp-coordinatorlayout-1.1.0-38 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\ea585942a127093b8cee591bae2d65c1\transformed\coordinatorlayout-1.1.0\res
+com.example.foodorderapp-transition-1.5.0-39 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\f45d993488fe9143b54b0c6f481e1a5e\transformed\transition-1.5.0\res
+com.example.foodorderapp-play-services-basement-18.4.0-40 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\f524cd6947fabac754aa385ec3d30117\transformed\play-services-basement-18.4.0\res
+com.example.foodorderapp-cardview-1.0.0-41 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\f7b81fed5d7207e1bf1e342709d2d168\transformed\cardview-1.0.0\res
+com.example.foodorderapp-core-1.6.1-42 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\fb7f0eaedb3eee9337112bf02295236b\transformed\core-1.6.1\res
+com.example.foodorderapp-savedstate-1.2.1-43 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\fbe41b37b8f342bb538b956a838822b2\transformed\savedstate-1.2.1\res
+com.example.foodorderapp-chip-navigation-bar-1.4.0-44 C:\Users\Sandun Gamage\.gradle\caches\transforms-4\fd6cb26551d4869e97f7517e3bf14bec\transformed\chip-navigation-bar-1.4.0\res
+com.example.foodorderapp-pngs-45 E:\Sandun\2nd Year(Sem 1)\HCI\Assignment\Group_22\FoodOrderApp\app\build\generated\res\pngs\debug
+com.example.foodorderapp-res-46 E:\Sandun\2nd Year(Sem 1)\HCI\Assignment\Group_22\FoodOrderApp\app\build\generated\res\processDebugGoogleServices
+com.example.foodorderapp-resValues-47 E:\Sandun\2nd Year(Sem 1)\HCI\Assignment\Group_22\FoodOrderApp\app\build\generated\res\resValues\debug
+com.example.foodorderapp-packageDebugResources-48 E:\Sandun\2nd Year(Sem 1)\HCI\Assignment\Group_22\FoodOrderApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.foodorderapp-packageDebugResources-49 E:\Sandun\2nd Year(Sem 1)\HCI\Assignment\Group_22\FoodOrderApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.foodorderapp-debug-50 E:\Sandun\2nd Year(Sem 1)\HCI\Assignment\Group_22\FoodOrderApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.foodorderapp-debug-51 E:\Sandun\2nd Year(Sem 1)\HCI\Assignment\Group_22\FoodOrderApp\app\src\debug\res
+com.example.foodorderapp-main-52 E:\Sandun\2nd Year(Sem 1)\HCI\Assignment\Group_22\FoodOrderApp\app\src\main\res
